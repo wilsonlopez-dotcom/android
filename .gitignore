@@ -1,0 +1,19 @@
+# Android/IntelliJ
+*.iml
+.gradle/
+.idea/
+local.properties
+.DS_Store
+
+# Build
+/build/
+/**/build/
+app/build/
+
+# Generated files
+captures/
+.externalNativeBuild/
+
+# Misc
+.gradle/
+gradle-app.setting
